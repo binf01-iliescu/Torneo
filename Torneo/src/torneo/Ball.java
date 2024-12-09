@@ -1,5 +1,4 @@
 package torneo;
-
 public class Ball {
     private int holderId; // ID del giocatore che detiene attualmente la palla
     private boolean gameEnded;

@@ -1,9 +1,4 @@
 package torneo;
-
-/**
- *
- * @author Robert
- */
 public class Torneo {
 
     /**
@@ -11,6 +6,7 @@ public class Torneo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+
         Ball ball = new Ball(1); // Il giocatore 1 inizia con la palla
 
         Player player1 = new Player(1, "Alice", ball);
@@ -39,8 +35,6 @@ public class Torneo {
         }
 
         System.out.println("Match concluso.");
-
-    }
     }
     
 }
