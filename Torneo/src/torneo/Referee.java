@@ -1,7 +1,10 @@
-public class Referee implements Runnable {
+
+package torneo;
+
+public class Arbitro implements Runnable {
     private final Ball ball;
 
-    public Referee(Ball ball) {
+    public Arbitro(Ball ball) {
         this.ball = ball;
     }
 

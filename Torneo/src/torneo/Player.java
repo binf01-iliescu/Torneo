@@ -1,3 +1,4 @@
+package torneo;
 public class Player implements Runnable {
     private final int id;
     private final String name;
