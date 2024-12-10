@@ -2,7 +2,8 @@ package torneo;
 public class Torneo {
 
     /**
-     * @param args the command line arguments
+     * Author Iliescu
+     * @see Scheda esercitazione
      */
     public static void main(String[] args) {
         // TODO code application logic here
